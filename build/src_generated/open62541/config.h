@@ -11,9 +11,9 @@
 #define UA_OPEN62541_VER_MAJOR 1
 #define UA_OPEN62541_VER_MINOR 4
 #define UA_OPEN62541_VER_PATCH 0
-#define UA_OPEN62541_VER_LABEL "-rc2" /* Release candidate label, etc. */
-#define UA_OPEN62541_VER_COMMIT "unknown-commit"
-#define UA_OPEN62541_VERSION "v1.4.0-rc2"
+#define UA_OPEN62541_VER_LABEL "-rc2-380-g9a52eaaf3" /* Release candidate label, etc. */
+#define UA_OPEN62541_VER_COMMIT "v1.4.0-rc2-380-g9a52eaaf3"
+#define UA_OPEN62541_VERSION "v1.4.0-rc2-380-g9a52eaaf3"
 
 /**
  * Architecture
