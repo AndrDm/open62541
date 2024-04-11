@@ -41,9 +41,9 @@ config.log
 /configure
 /missing
 /html
-/doc/html/*
-/doc/Doxyfile
-/doc/doxyfile.stamp
+# /doc/html/*
+# /doc/Doxyfile
+# /doc/doxyfile.stamp
 *~
 GIT_REVISION
 SVN_REVISION
@@ -78,8 +78,8 @@ Makefile
 /CMakeCache.txt
 /CMakeFiles/
 /cmake_install.cmake
-doc/
-doc_src/
+# doc/
+# doc_src/
 # examples/ #.AD.
 /exampleClient
 /exampleClient_legacy

@@ -8,6 +8,6 @@ includedir=C:/Program Files (x86)/open62541/include
 
 Name: open62541
 Description: open62541 is an open source C (C99) implementation of OPC UA
-Version: 1.4.0-rc2-378-g40ed38f94
+Version: 1.4.0-rc2
 Libs: -L${libdir} -lopen62541
 Cflags: -I${includedir} 
