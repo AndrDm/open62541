@@ -1,0 +1,50 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindOpenSSL.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Andrey/Desktop/open62541/CMakeLists.txt
+C:/Users/Andrey/Desktop/open62541/build/CMakeFiles/3.29.1/CMakeCCompiler.cmake
+C:/Users/Andrey/Desktop/open62541/build/CMakeFiles/3.29.1/CMakeRCCompiler.cmake
+C:/Users/Andrey/Desktop/open62541/build/CMakeFiles/3.29.1/CMakeSystem.cmake
+C:/Users/Andrey/Desktop/open62541/include/open62541/config.h.in
+C:/Users/Andrey/Desktop/open62541/tools/cmake/AssignSourceGroup.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/CMakeFindFrameworks.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/FindClangTools.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/FindPackageHandleStandardArgs.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/FindPackageMessage.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/FindPython/Support.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/FindPython3.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/SetGitBasedVersion.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/linting_build.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/linting_target.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/macros_public.cmake
+C:/Users/Andrey/Desktop/open62541/tools/cmake/open62541Config.cmake.in
+C:/Users/Andrey/Desktop/open62541/tools/open62541.pc.in
